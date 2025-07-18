@@ -1,6 +1,6 @@
 const id=123; /*cant change */
 let acc="ganavi";
-var num="wed";//block/functional scope not identifible
+var num="wed";//block and functional scope are not identifible
 accountCity="Hassan";
 
 //id=3 not allowed
